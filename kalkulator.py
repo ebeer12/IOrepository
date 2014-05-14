@@ -1,3 +1,4 @@
+print("Podaj dwie liczby. Kalkulator doda je do siebie.")
 a = input()
 b = input()
 result = int(a) + int(b)
