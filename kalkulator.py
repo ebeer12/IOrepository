@@ -1,4 +1,4 @@
-print("Podaj dwie liczby. Kalkulator doda je do siebie.")
+print("Podaj dwie liczby i działanie. Kalkulator doda/odejmie je od siebie.")
 a = input()
 b = input()
 task = input()
