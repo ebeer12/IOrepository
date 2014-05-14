@@ -1,3 +1,4 @@
+print("Podaj dwie liczby.")
 a = input()
 b = input()
 result = int(a) + int(b)
