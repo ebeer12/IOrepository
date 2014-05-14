@@ -1,6 +1,11 @@
 print("Podaj dwie liczby. Kalkulator doda je do siebie.")
->>>>>>> Branch1.1
 a = input()
 b = input()
-result = int(a) + int(b)
+task = input()
+if(task == '+'):
+    result = int(a) + int(b)
+elif(task == '-'):
+    result = int(a) - int(b)
+else:
+    result = "BŁĄÐ"
 print(result)
